@@ -8,9 +8,9 @@ Nosso nome é Erick e Kayk , nós somos estudante da escola tecnica estadual Vas
 # 💻 Tech Stack:
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white) ![Gimp](https://img.shields.io/badge/Gimp-657D8B?style=flat&logo=gimp&logoColor=FFFFFF) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat&logo=Canva&logoColor=white) ![GitHub](https://img.shields.io/badge/ea-%23000000.svg?style=flat&logo=ea&logoColor=white)
 # 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=Erick14XIT&theme=midnight-purple&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://streak-stats.demolab.com/?user=Erick14XIT&theme=midnight-purple&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=Erick14XIT&theme=midnight-purple&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-stats.shion.dev/api?username=ErickKayk444&theme=midnight-purple&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://streak-stats.demolab.com/?user=ErickKayk444&theme=midnight-purple&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=ErickKayk444&theme=midnight-purple&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Erick14XIT&theme=midnight-purple&no-frame=false&no-bg=false&margin-w=4)
@@ -24,4 +24,4 @@ Nosso nome é Erick e Kayk , nós somos estudante da escola tecnica estadual Vas
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 
-![snake gif](https://github.com/Erick14XIT/Erick14XIT/blob/output/github-snake-dark.svg)
+![snake gif](https://github.com/ErickKayk444/ErickKayk444/blob/output/github-snake-dark.svg)
